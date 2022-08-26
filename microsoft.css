@@ -1,0 +1,410 @@
+.body{
+    margin: 0;
+    /* padding: 0%; */
+}
+*{
+    margin: 0%;
+}
+
+.header{
+    width: 100%;
+    height: 67px;
+}
+.hdnote{
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    position: relative;
+}
+.hd1{
+    padding-left: 254px;
+    margin-top: -27px;
+}
+.hd2{
+    padding-left: 368px;
+    margin-top: -20px;
+}
+.hd3{
+    padding-left: 434px;
+    margin-top: -20px;
+}
+.hd4{
+    padding-left: 522px;
+    margin-top: -20px;
+}
+.hd5{
+    margin-top: -20px;
+    padding-left: 595px;
+}
+.hd6{
+    margin-top: -20px;
+    padding-left: 650px;
+}
+.hd7{
+    margin-top: -20px;
+    padding-left: 1029px;
+}
+.hd8{
+    position: absolute;
+    height: 22px;
+    margin-top: -21px;
+    padding-left: 1149px;
+}
+.hd9{
+    position: absolute;
+    height: 40px;
+    padding-left: 1173px;
+    margin-top: -31px;
+}
+.hd10{
+    position: absolute;
+    margin-top: -25px;
+    height: 30px;
+    padding-left: 1212px;
+}
+.hd11{
+    position: absolute;
+    height: 20px;
+    padding-left: 1116px;
+    margin-top: -17px;
+}
+.center{
+    width: 100%;
+    height:300px ;
+}
+.leftside{
+    width: 50%;
+}
+.rightside{
+    width: 50%;
+}
+.writing{
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.mainImage{
+    width: 1263px;
+    height: 568px;
+}
+.logo{
+    padding-left: 77px;
+    padding-top: 16px;
+    height: 30px;
+}
+.mainNote{
+    margin-top: -379px;
+    margin-left: 92px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.btn{
+    height: 37px;
+    width: 156px;
+    margin-left: 91px;
+    margin-top: 20px;
+    border: none;
+    background-color: #0067b8;
+    color: #fff
+}
+.smnote{
+    margin-left: 91px;
+    margin-top: 16px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    color: #0067b8;
+}
+.btmcntr{
+    margin-top: 290px;
+    margin-left: 600px;
+   
+}
+.logos{
+    width: 100%;
+    height: 201px;
+}
+.log1{
+    height: 55px;
+    padding-left: 246px;
+    padding-top: 50px;
+}
+.logo2{
+    height: 76px;
+    padding-left: 122px;
+}
+.logo3{
+    padding-left: 121px;
+    height: 47px;
+}
+.logo4{
+    height: 55px;
+    padding-left: 137px;
+    padding-top: 50px;
+}
+.lw1{
+    padding-left: 186px;
+}
+.lw2{
+    padding-left: 23px;
+}
+.lw3{
+    padding-left: 82px;
+}
+.lw4{
+    padding-left: 75px;
+}
+.logobtm{
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    color: #0067b8;
+}
+.card{
+    width: 100%;
+    height: 400px;
+}
+.cardbtm{
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+}
+.card1{
+    padding-left: 30px;
+}
+.crdhd1{
+    padding-left: 29px;
+    padding-top: 25px;
+}
+.crd1{
+    padding-left: 29px;
+    padding-top: 10px;
+}
+.crdhd2{
+    padding-left: 330px;
+    margin-top: -107px;
+}
+.crd2{
+    padding-left: 329px;
+    padding-top: 10px;
+}
+.crdhd3{
+    padding-left: 630px;
+    margin-top: -108px;
+}
+.crd3{
+    padding-left: 630px;
+    margin-top: 10px;
+}
+.crdhd4{
+    padding-left: 932px;
+    margin-top: -129px;
+}
+.crd4{
+    padding-left: 932px;
+    padding-top: 12px;
+}
+.main2{
+    width: 100%;
+    height: 570px;
+    position: relative;
+   
+}
+.mainImg2{
+    height: 470px;
+    padding-left: 106px;
+    padding-top: 44px;
+    width: 1061px;
+}
+.imgimg{
+    padding-left: 163px;
+}
+.square{
+    width: 329px;
+    height: 263px;
+    background-color: #fff;
+    position: absolute;
+    margin-top: -340px;
+    margin-left: 176px;
+}.sqhd{
+    padding-left: 35px;
+    padding-top: 36px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.sqnote{
+    padding-left: 36px;
+    padding-top: 20px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.btn2{
+    margin-left: 36px;
+    height: 34px;
+    margin-top: 24px;
+    border: none;
+    background-color: #0067b8;
+    color: #fff
+}
+.page4{
+    width: 100%;
+    height: 650px;
+    position: relative;
+}
+.p4hd{
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding-left: 103px;
+    padding-top: 34px;
+}
+.pic1{
+    padding-left: 103px;
+    padding-top: 15px;
+    height: 138px;
+}
+.pic2{
+    height: 138px;
+    padding-left: 20px;
+}
+.pic3{
+    height: 138px;
+    padding-left: 20px;
+}
+.pic4{
+    height: 138px;
+    padding-left: 20px;
+}
+.picbottom{
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+}
+.pichd1{
+    padding-left: 102px;
+    padding-top: 23px;
+}
+.picbtm1{
+    padding-left: 102px;
+    padding-top: 11px;
+}
+.pichd2{
+    padding-left: 373px;
+    margin-top: -161px;
+}
+.picbtm2{
+    padding-left: 374px;
+    padding-top: 11px;
+}
+.pichd3{
+    padding-left: 641px;
+    margin-top: -118px;
+}
+.picbtm3{
+    padding-left: 641px;
+    padding-top: 11px;
+}
+.pichd4{
+    padding-left: 911px;
+    margin-top: -138px;
+}
+.picbtm4{
+    padding-left: 910px;
+    padding-top: 11px;
+}
+.foll{
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding-left: 102px;
+    margin-top: 89px;
+}
+.sm1{
+    height: 14px;
+    padding-left: 242px;
+    position: absolute;
+    margin-top: -17px;
+}
+.sm2{
+    height: 17px;
+    position: absolute;
+    padding-left: 269px;
+    margin-top: -18px;
+}
+.sm3{
+    height: 18px;
+    position: absolute;
+    padding-left: 301px;
+    margin-top: -18px;
+}
+.footer{
+    width: 100%;
+    height: 500px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.ft1{
+    padding-left: 85px;
+    padding-top: 127px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.fot1{
+    padding-left: 83px;
+    padding-top: 12px;
+}
+.ft2{
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 308px;
+    margin-top: -153px;
+}
+.fot2{
+    padding-left: 308px;
+    padding-top: 12px;
+}
+.ft3{
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 552px;
+    margin-top: -188px;
+}
+.fot3{
+    padding-left: 552px;
+    margin-top: 12px;
+}
+.ft4{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: -225px;
+    padding-left: 770px;
+}
+.fot4{
+    margin-top: 12px;
+    padding-left: 770px;
+}
+.ft5{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: -253px;
+    padding-left: 1021px;
+}
+.fot5{
+    margin-top: 12px;
+    padding-left: 1021px;
+}
+.ftr{
+    margin-top: 88px;
+    padding-left: 91px;
+}
+.ftr1{
+    margin-top: -21px;
+    padding-left: 600px;
+}
+.ftr2{
+    margin-top: -21px;
+    padding-left: 758px;
+}
+.ftr3{
+    margin-top: -21px;
+    padding-left: 833px;
+}
+.ftr4{
+    margin-top: -21px;
+    padding-left: 950px;
+}
+.ftr5{
+    margin-top: -21px;
+    padding-left: 1076px;
+}
